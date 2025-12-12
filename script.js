@@ -1,3 +1,24 @@
-// Você pode adicionar animações, mensagens ou interações aqui.
-// Exemplo simples:
-console.log("Seu portfólio carregou com sucesso!");
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #d60000, #8b0000);
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.countdown {
+  font-size: 32px;
+  margin-top: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 14px;
+}
